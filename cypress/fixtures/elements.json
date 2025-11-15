@@ -1,0 +1,36 @@
+
+{
+  "buyticketsbtn": ".menu-container a[href*=\"dummy-ticket\"]",
+  "RadioDummyTicketandHotel": "#product_3186",
+  "FirstName":"#travname",
+  "LastName": "#travlastname",
+  "DoB": "#dob",
+  "OrderNotes": "#order_comments",
+  "SexMale":"input[id=sex_1]",
+  "SexFemale": "input[id=sex_2]",
+  "TripType": ".woocommerce-input-wrapper",
+  "FromCity": "#fromcity",
+  "ToDestination": "#tocity",
+  "DepartureDate": "#departon",
+  "AdditionalInfo": "#notes",
+  "PurposeofTicket": "#select2-reasondummy-container",
+  "AppointmentDate": "#appoinmentdate",
+  "RadioDeliveryMethodBtn": "#deliverymethod_1",
+  "Phone": "#billing_phone",
+  "Email": "#billing_email",
+  "Country": "#select2-billing_country-container",
+  "StreetAddress":"#billing_address_1",
+  "Town": "#billing_city",
+  "County": "#billing_state",
+  "PostCode": "#billing_postcode",
+  "RadioPaymentBtn": "#payment_method",
+  "CardNumberField": "#Field-numberInput",
+  "CardEpiryDate": "#Field-expiryInput",
+  "CVCSecurityCode": "#Field-cvcInput",
+  "PlaceOrderbtn":"#place_order",
+  "AlertError": ".woocommerce-error"
+
+
+
+
+}
